@@ -1,1 +1,2 @@
 # dietoptimization
+This is a optimization problem. The goal is to help US Army  to meet the nutritional requirements of its soldiers while minimizing the cost. Several opmization problems are formulated based on different objective function and restirictions. After formulate the optimization model, we find the cheapest diet that satisfies the maximum and minimum daily nutrition constraints, and solve it using PuLP. PuLP is an open source Python LP modeler which can be used to solve linear programming problems.
